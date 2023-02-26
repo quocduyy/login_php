@@ -15,5 +15,6 @@ if (!isset($_SESSION['user'])) {
 </head>
 <body>
     <a href="logout.php">Dang xuat</a>
+    <p>sadda</p>
 </body>
 </html>

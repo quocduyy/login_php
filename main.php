@@ -14,7 +14,7 @@ if (!isset($_SESSION['user'])) {
     <title>Home page</title>
 </head>
 <body>
-    <a href="logout.php">Dang xuat</a>
-    <p>sadda</p>
+  
+    <h1>helloo</h1>
 </body>
 </html>
